@@ -1,0 +1,8 @@
+{
+  "name": "driver drowsyness project",
+  "description": "Real-time driver drowsiness and distraction monitoring system using MediaPipe and Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
